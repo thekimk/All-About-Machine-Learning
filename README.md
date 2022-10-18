@@ -11,7 +11,9 @@
 
 ## 📚 Files and Descriptions
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Files** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Descriptions** |
+<div style="width:1000px">
+
+| **Files** | **Descriptions** |
 |---|---|
 | **Lecture2-0_DataAnalysis_RealDataAnalysis_KK** | **[데이터사이언티스트 이해]** 데이터분석의 단계별 목적 이해 및 데이터사이언티스트 |
 | **Lecture2-1_DataAnalysis_LearningAlgorithm_KK** | **[데이터학습 알고리즘]** 데이터를 기계에게 학습시키는 알고리즘 종류와 Python 라이브러리 |
@@ -25,5 +27,7 @@
 | **Practice2-4_DataAnalysis_Unsupervised_KK** | **[군집화 및 차원변환 데이터분석 실습]** 군집 및 차원변환문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **module_regression.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
 | **module_classification.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
+
+</div>
 
 ---
