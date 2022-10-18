@@ -1,6 +1,6 @@
 ## ✔️ All About Machine Learning
 
-> 데이터사이언스 등장배경 이해를 위한 확률통계와 알고리즘 진화과정 및 시각화 튜토리얼입니다.
+> 비즈니스 혁신을 위한 기계학습 알고리즘 활용 데이터분석 프로세스를 이해하기 위한 강의자료 공간입니다.
 - 강의 구성에 따라 영상과 자료의 `목차구성 넘버링`이 차이가 있을 수 있으나, `강의자료 기준`이 정확합니다.
 - 강의자료의 `오탈자를 포함한 내용이슈`를 언제든 알려주시면 `최대한 빨리 업데이트` 할 계획입니다.
 - 파이썬 사용법 튜토리얼은 <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> `크크인싸이트`에 무료로 제공합니다. 
