@@ -13,14 +13,15 @@
 
 | **Files** | **Descriptions** |
 |---|---|
-| **Lecture1-1_Basic_DataScience_KK.ipynb** | **[데이터사이언스 이해]** 데이터사이언스 기반 디지털경제 이해 및 전망 |
-| **Lecture1-1_Basic_FinancialEngineering_DataScience_KK.ipynb** | **[데이터사이언스 이해]** 금융데이터분석 기반 데이터사이언스 이해 |
-| **Lecture1-2_Basic_Probability_KK.ipynb** | **[데이터 의사결정]** 정량적 데이터분석을 위한 확률의 활용 |
-| **Lecture1-3_Basic_StatSamplingDirection_KK.ipynb** | **[데이터 의사결정]** 스몰데이터 vs 빅데이터 에서의 통계의 활용 |
-| **Lecture1-3_Basic_Statistics_KK.ipynb** | **[데이터 의사결정]** 정량적 데이터분석을 위한 통계의 활용 |
-| **Lecture1-4_Baslc_Algorithm_KK.ipynb** | **[데이터 의사결정]** 정량적 데이터분석을 위한 확률통계의 알고리즘으로의 진화 |
-| **Lecture1-5_Basic_Visualization_KK.ipynb** | **[데이터 의사결정]** 정량적 데이터분석을 위한 데이터시각화 활용 |
-| **Lecture1-6_Basic_Programming_KK.ipynb** | **[데이터 의사결정]** 디지털사회 대비 데이터분석을 위한 프로그래밍 도구 |
-| **Practice0_Installation_ColabPythonJupyter_KK.pdf** | **[설치준비]** Colab & Anaconda(Python) 설치 |
+| **Lecture2-0_DataAnalysis_RealDataAnalysis_KK** | **[데이터사이언티스트 이해]** 데이터분석의 단계별 목적 이해 및 데이터사이언티스트 |
+| **Lecture2-1_DataAnalysis_LearningAlgorithm_KK** | **[데이터학습 알고리즘]** 데이터를 기계에게 학습시키는 알고리즘 종류와 Python 라이브러리 |
+| **Lecture2-2_DataAnalysis_SupervisedRegression_KK** | **[예측 데이터분석 단계]** 예측문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 과정 |
+| **Lecture2-3_DataAnalysis_SupervisedClassification_KK.ipynb** | **[분류 데이터분석 단계]** 분류문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
+| **Lecture2-4_DataAnalysis_UnsupervisedClustering_KK.ipynb** | **[군집화 데이터분석 단계]** 군집문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
+| **Lecture2-5_DataAnalysis_UnsupervisedReduction_KK.ipynb** | **[차원변환 데이터분석 단계]** 차원변환문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
+| **Practice2-1_DataAnalysis_Preprocessing_KK.ipynb** | **[데이터전처리 실습]** 데이터를 알고리즘에 학습시키기 위한 데이터준비 |
+| **Practice2-2_DataAnalysis_SupervisedRegression_KK.ipynb** | **[예측 데이터분석 실습]** 예측문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
+| **Practice2-3_DataAnalysis_SupervisedClassification_KK.ipynb** | **[분류 데이터분석 실습]** 분류문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
+| **Practice2-4_DataAnalysis_Unsupervised_KK.ipynb** | **[군집화 및 차원변환 데이터분석 실습]** 군집 및 차원변환문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 
 ---
