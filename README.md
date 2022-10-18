@@ -11,7 +11,7 @@
 
 ## 📚 Files and Descriptions
 
-| <div style="width:500px">**Files**</div> | **Descriptions** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Files** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | **Descriptions** |
 |---|---|
 | **Lecture2-0_DataAnalysis_RealDataAnalysis_KK** | **[데이터사이언티스트 이해]** 데이터분석의 단계별 목적 이해 및 데이터사이언티스트 |
 | **Lecture2-1_DataAnalysis_LearningAlgorithm_KK** | **[데이터학습 알고리즘]** 데이터를 기계에게 학습시키는 알고리즘 종류와 Python 라이브러리 |
