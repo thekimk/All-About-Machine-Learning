@@ -24,7 +24,7 @@
 | **Practice2-2_DataAnalysis_SupervisedRegression_KK(Practice)** | **[예측 데이터분석 실습]** 실습 |
 | **Practice2-3_DataAnalysis_SupervisedClassification_KK** | **[분류 데이터분석 실습]** 분류문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **Practice2-3_DataAnalysis_SupervisedClassification_KK(Practice)** | **[분류 데이터분석 실습]** 실습 |
-| **Practice2-4_DataAnalysis_Unsupervised_KK** | **[군집화 및 차원변환 데이터분석 실습]** 군집 및 차원변환문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
+| **Practice2-5_DataAnalysis_Unsupervised_KK** | **[군집화 및 차원변환 데이터분석 실습]** 군집 및 차원변환문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **Practice2-5_DataAnalysis_Unsupervised_KK(Practice)** | **[군집화 및 차원변환 데이터분석 실습]** 실습 |
 | **module_regression.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
 | **module_classification.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
