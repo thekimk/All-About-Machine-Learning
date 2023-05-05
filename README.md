@@ -21,13 +21,14 @@
 | **Lecture2-5_DataAnalysis_UnsupervisedReduction_KK** | **[차원변환 데이터분석 단계]** 차원변환문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
 | **Practice2-1_DataAnalysis_Preprocessing_KK** | **[데이터전처리 실습]** 데이터를 알고리즘에 학습시키기 위한 데이터준비 |
 | **Practice2-1_DataAnalysis_Preprocessing_KK(Practice)** | **[데이터전처리 실습]** 실습 |
-| **Practice2-1_DataAnalysis_Preprocessing_Text_KK** | **[데이터전처리 실습]** 텍스트데이터를 알고리즘에 학습시키기 위한  |
+| **Practice2-1_DataAnalysis_Preprocessing_Text_KK** | **[데이터전처리 실습]** 텍스트데이터를 알고리즘에 학습시키기 위한 데이터준비 |
 | **Practice2-2_DataAnalysis_SupervisedRegression_KK** | **[예측 데이터분석 실습]** 예측문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **Practice2-2_DataAnalysis_SupervisedRegression_KK(Practice)** | **[예측 데이터분석 실습]** 실습 |
 | **Practice2-3_DataAnalysis_SupervisedClassification_KK** | **[분류 데이터분석 실습]** 분류문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **Practice2-3_DataAnalysis_SupervisedClassification_KK(Practice)** | **[분류 데이터분석 실습]** 실습 |
 | **Practice2-5_DataAnalysis_Unsupervised_KK** | **[군집화 및 차원변환 데이터분석 실습]** 군집 및 차원변환문제 해결을 위한 선형회귀분석 알고리즘 활용 데이터분석 실습 |
 | **Practice2-5_DataAnalysis_Unsupervised_KK(Practice)** | **[군집화 및 차원변환 데이터분석 실습]** 실습 |
+| **Practice2-7_DataAnalysis_Preprocessing_TimeSeries_KK** | **[데이터전처리 실습]** 시계열데이터를 알고리즘에 학습시키기 위한 데이터준비 |
 | **module_regression.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
 | **module_classification.py** | **[사용자정의함수]** 예측문제 해결에 사용한 사용자가 직접 만든 자동화 함수 모음 |
 
