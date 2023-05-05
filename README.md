@@ -19,6 +19,10 @@
 | **Lecture2-3_DataAnalysis_SupervisedClassification_KK** | **[분류 데이터분석 단계]** 분류문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
 | **Lecture2-4_DataAnalysis_UnsupervisedClustering_KK** | **[군집화 데이터분석 단계]** 군집문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
 | **Lecture2-5_DataAnalysis_UnsupervisedReduction_KK** | **[차원변환 데이터분석 단계]** 차원변환문제 해결을 위한 로지스틱회귀분석 알고리즘 활용 데이터분석 과정 |
+| **Lecture3-1_MachineLearning_SupervisedEvolution_KK** | **[예측/분류 알고리즘의 진화]** 예측/분류문제 해결을 위해 알고리즘의 진화 방향과 종류 |
+| **Lecture3-2_MachineLearning_SupervisedRegClass_KK** | **[예측/분류 알고리즘의 진화]** 예측/분류문제 해결을 위한 고급 알고리즘 활용 데이터분석 |
+| **Lecture3-3_MachineLearning_SupervisedRegClassEnsemble_KK** | **[예측/분류 알고리즘의 진화]** 예측/분류문제 해결을 위한 고급 알고리즘 활용 데이터분석 |
+| **Lecture3-4_MachineLearning_Unsupervised_KK** | **[군집화/차원변환 알고리즘의 진화]** 군집화/차원변환문제 해결을 위한 고급 알고리즘 활용 데이터분석 |
 | **Practice2-1_DataAnalysis_Preprocessing_KK** | **[데이터전처리 실습]** 데이터를 알고리즘에 학습시키기 위한 데이터준비 |
 | **Practice2-1_DataAnalysis_Preprocessing_KK(Practice)** | **[데이터전처리 실습]** 실습 |
 | **Practice2-1_DataAnalysis_Preprocessing_Text_KK** | **[데이터전처리 실습]** 텍스트데이터를 알고리즘에 학습시키기 위한 데이터준비 |
