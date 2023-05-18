@@ -61,8 +61,11 @@ def feature_engineering(df_origin):
 
 
 # 데이터 분리
-def datasplit(df, Y_colname, test_size=0.2, random_state=123):
-    X_colname = [x for x in df.columns if x not in Y_colname]
+def datasplit(df, Y_colname, X_delete=None, test_size=0.2, random_state=123):
+    if X_delete != None:
+        X_colname = [x for x in df.columns if x not in Y_colname+X_delete]
+    else:
+        X_colname = [x for x in df.columns if x not in Y_colname]
        
     X_train, X_test, Y_train, Y_test = train_test_split(df[X_colname], df[Y_colname],
                                                         test_size=test_size, random_state=random_state)
