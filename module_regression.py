@@ -47,13 +47,13 @@ def feature_engineering(df_origin):
         df['TAX'] = np.digitize(df['TAX'], bins=interval)
         
     if 'TAX' in df.columns:
-        df_dummy = pd.get_dummies(df['TAX'], prefix='TAX', drop_first=True)
+        df_dummy = pd.get_dummies(df['TAX'], prefix='TAX', drop_first=True)*1
         df = pd.concat([df, df_dummy], axis=1)
         del df['TAX']
 
     if 'CHAS' in df.columns:
         df['CHAS'] = df['CHAS'].astype(int)
-        df_dummy = pd.get_dummies(df['CHAS'], prefix='CHAS', drop_first=False)
+        df_dummy = pd.get_dummies(df['CHAS'], prefix='CHAS', drop_first=False)*1
         df = pd.concat([df, df_dummy], axis=1)
         del df['CHAS']
     
